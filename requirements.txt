@@ -3,4 +3,4 @@ pandas==1.5.2
 pandas_ta==0.3.14b0
 plotly==5.13.1
 streamlit==1.21.0
-yfinance==0.1.74
+yfinance==0.2.18
