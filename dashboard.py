@@ -20,8 +20,8 @@ df['Volatility Low'] = df['Low'].rolling(window=10).std()
 df['Volatility Close'] = df['Close'].rolling(window=10).std()
 df['Vol10'] = df['Volatility Close'] * 10
 
-newdf=df[['Date','Volatility Open','Volatility High','Volatility Low','Volatility Close']]
-newdf=newdf.set_index('Date')
+newdf=df[['Datetime','Volatility Open','Volatility High','Volatility Low','Volatility Close']]
+newdf=newdf.set_index('Datetime')
 newdf=newdf.dropna()
 
 
