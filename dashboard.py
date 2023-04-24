@@ -91,7 +91,7 @@ if option == 'data frame':
     st.dataframe(ohlc_df)
 
 
-df_callendar = pd.read_csv('/home/user/Documents/python test/volitility project/calendar-event-list.csv', index_col=0)
+df_callendar = pd.read_csv('https://raw.githubusercontent.com/suparn2304/volatility-dashboard/main/calendar-event-list.csv', index_col=0)
 df_callendar.index = pd.to_datetime(df_callendar.index)
 calllendar_df = pd.merge(ohlc_df, df_callendar, how='left', left_index=True, right_index=True)
 calllendar_df = calllendar_df.dropna()
