@@ -9,7 +9,7 @@ st.sidebar.title("selection")
 option = st.sidebar.selectbox("options",('long signal', 'short signal', 'data frame', 'Important dates', 'implinks'))
 st.subheader(option)
 
-df = yf.download('BTC-USD', period='7m', interval='1h')
+df = yf.download('BTC-USD', period='1y', interval='1h')
 import pandas as pd; import numpy as np
 df = df.reset_index()
 # Step: Change data type of Date to Datetime
