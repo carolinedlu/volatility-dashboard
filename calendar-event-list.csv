@@ -1,0 +1,378 @@
+Start,Name,Impact,Currency
+04/05/2022 14:00:00,ISM Services PMI,HIGH,USD
+04/06/2022 18:00:00,FOMC Minutes,HIGH,USD
+04/12/2022 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+04/12/2022 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+04/14/2022 12:30:00,Retail Sales (MoM),HIGH,USD
+04/14/2022 12:30:00,Retail Sales Control Group,HIGH,USD
+04/14/2022 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+04/21/2022 15:00:00,Fed's Chair Powell speech,HIGH,USD
+04/21/2022 17:00:00,Fed's Chair Powell speech,HIGH,USD
+04/26/2022 12:30:00,Durable Goods Orders,HIGH,USD
+04/26/2022 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+04/28/2022 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+05/02/2022 14:00:00,ISM Manufacturing PMI,HIGH,USD
+05/04/2022 12:15:00,ADP Employment Change,HIGH,USD
+05/04/2022 14:00:00,ISM Services PMI,HIGH,USD
+05/04/2022 18:00:00,Fed Interest Rate Decision,HIGH,USD
+05/04/2022 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+05/04/2022 18:30:00,FOMC Press Conference,HIGH,USD
+05/06/2022 12:30:00,Nonfarm Payrolls,HIGH,USD
+05/10/2022 15:30:00,President Biden speech,HIGH,USD
+05/11/2022 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+05/11/2022 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+05/11/2022 18:15:00,President Biden speech,HIGH,USD
+05/13/2022 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+05/17/2022 12:30:00,Retail Sales (MoM),HIGH,USD
+05/17/2022 12:30:00,Retail Sales Control Group,HIGH,USD
+05/17/2022 18:00:00,Fed's Chair Powell speech,HIGH,USD
+05/24/2022 16:20:00,Fed's Chair Powell speech,HIGH,USD
+05/25/2022 12:30:00,Durable Goods Orders,HIGH,USD
+05/25/2022 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+05/25/2022 18:00:00,FOMC Minutes,HIGH,USD
+05/26/2022 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+05/31/2022 13:00:00,Biden-Powell meeting,HIGH,USD
+06/01/2022 14:00:00,ISM Manufacturing PMI,HIGH,USD
+06/02/2022 12:15:00,ADP Employment Change,HIGH,USD
+06/03/2022 12:30:00,Nonfarm Payrolls,HIGH,USD
+06/03/2022 14:00:00,ISM Services PMI,HIGH,USD
+06/03/2022 14:30:00,President Biden speech,HIGH,USD
+06/07/2022 14:00:00,Treasury Sec Yellen testifies,HIGH,USD
+06/10/2022 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+06/10/2022 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+06/10/2022 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+06/15/2022 12:30:00,Retail Sales (MoM),HIGH,USD
+06/15/2022 12:30:00,Retail Sales Control Group,HIGH,USD
+06/15/2022 18:00:00,Fed Interest Rate Decision,HIGH,USD
+06/15/2022 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+06/15/2022 18:00:00,FOMC Economic Projections,HIGH,USD
+06/15/2022 18:00:00,Interest Rate Projections - 1st year,HIGH,USD
+06/15/2022 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD
+06/15/2022 18:00:00,Interest Rate Projections - Current,HIGH,USD
+06/15/2022 18:00:00,Interest Rate Projections - Longer,HIGH,USD
+06/15/2022 18:30:00,FOMC Press Conference,HIGH,USD
+06/17/2022 12:45:00,Fed's Chair Powell speech,HIGH,USD
+06/22/2022 13:30:00,Fed's Chair Powell testifies,HIGH,USD
+06/22/2022 18:00:00,President Biden speech,HIGH,USD
+06/23/2022 14:00:00,Fed's Chair Powell testifies,HIGH,USD
+06/23/2022 20:30:00,Bank Stress Test Info,HIGH,USD
+06/27/2022 12:30:00,Durable Goods Orders,HIGH,USD
+06/27/2022 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+06/29/2022 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+06/29/2022 13:00:00,Fed's Chair Powell speech,HIGH,USD
+07/01/2022 14:00:00,ISM Manufacturing PMI,HIGH,USD
+07/06/2022 14:00:00,ISM Services PMI,HIGH,USD
+07/06/2022 18:00:00,FOMC Minutes,HIGH,USD
+07/08/2022 12:30:00,Nonfarm Payrolls,HIGH,USD
+07/13/2022 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+07/13/2022 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+07/15/2022 12:30:00,Retail Sales (MoM),HIGH,USD
+07/15/2022 12:30:00,Retail Sales Control Group,HIGH,USD
+07/15/2022 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+07/27/2022 12:30:00,Durable Goods Orders,HIGH,USD
+07/27/2022 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+07/27/2022 18:00:00,Fed Interest Rate Decision,HIGH,USD
+07/27/2022 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+07/27/2022 18:30:00,FOMC Press Conference,HIGH,USD
+07/28/2022 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+08/01/2022 14:00:00,ISM Manufacturing PMI,HIGH,USD
+08/02/2022 23:30:00,President Biden speech,HIGH,USD
+08/03/2022 14:00:00,ISM Services PMI,HIGH,USD
+08/05/2022 12:30:00,Nonfarm Payrolls,HIGH,USD
+08/10/2022 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+08/10/2022 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+08/12/2022 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+08/17/2022 12:30:00,Retail Sales (MoM),HIGH,USD
+08/17/2022 12:30:00,Retail Sales Control Group,HIGH,USD
+08/17/2022 18:00:00,FOMC Minutes,HIGH,USD
+08/24/2022 12:30:00,Durable Goods Orders,HIGH,USD
+08/24/2022 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+08/25/2022 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+08/25/2022 14:00:00,Jackson Hole Symposium,HIGH,USD
+08/26/2022 14:00:00,Fed's Chair Powell speech,HIGH,USD
+08/26/2022 14:00:00,Jackson Hole Symposium,HIGH,USD
+08/27/2022 14:00:00,Jackson Hole Symposium,HIGH,USD
+08/31/2022 12:15:00,ADP Employment Change,HIGH,USD
+08/31/2022 12:15:05,ADP Employment Change,HIGH,USD
+08/31/2022 12:15:10,ADP Employment Change,HIGH,USD
+09/01/2022 14:00:00,ISM Manufacturing PMI,HIGH,USD
+09/02/2022 12:30:00,Nonfarm Payrolls,HIGH,USD
+09/06/2022 14:00:00,ISM Services PMI,HIGH,USD
+09/08/2022 13:10:00,Fed's Chair Powell speech,HIGH,USD
+09/13/2022 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+09/13/2022 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+09/15/2022 12:30:00,Retail Sales (MoM),HIGH,USD
+09/15/2022 12:30:00,Retail Sales Control Group,HIGH,USD
+09/16/2022 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+09/21/2022 18:00:00,Fed Interest Rate Decision,HIGH,USD
+09/21/2022 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+09/21/2022 18:00:00,FOMC Economic Projections,HIGH,USD
+09/21/2022 18:00:00,Interest Rate Projections - 1st year,HIGH,USD
+09/21/2022 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD
+09/21/2022 18:00:00,Interest Rate Projections - 3rd year,HIGH,USD
+09/21/2022 18:00:00,Interest Rate Projections - Current,HIGH,USD
+09/21/2022 18:00:00,Interest Rate Projections - Longer,HIGH,USD
+09/21/2022 18:30:00,FOMC Press Conference,HIGH,USD
+09/23/2022 18:00:00,Fed's Chair Powell speech,HIGH,USD
+09/27/2022 11:30:00,Fed's Chair Powell speech,HIGH,USD
+09/27/2022 12:30:00,Durable Goods Orders,HIGH,USD
+09/27/2022 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+09/28/2022 14:15:00,Fed's Chair Powell speech,HIGH,USD
+09/29/2022 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+10/03/2022 14:00:00,ISM Manufacturing PMI,HIGH,USD
+10/05/2022 12:15:00,ADP Employment Change,HIGH,USD
+10/05/2022 14:00:00,ISM Services PMI,HIGH,USD
+10/07/2022 12:30:00,Nonfarm Payrolls,HIGH,USD
+10/12/2022 18:00:00,FOMC Minutes,HIGH,USD
+10/13/2022 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+10/13/2022 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+10/14/2022 12:30:00,Retail Sales (MoM),HIGH,USD
+10/14/2022 12:30:00,Retail Sales Control Group,HIGH,USD
+10/14/2022 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+10/27/2022 12:30:00,Durable Goods Orders,HIGH,USD
+10/27/2022 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+10/27/2022 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+11/01/2022 14:00:00,ISM Manufacturing PMI,HIGH,USD
+11/02/2022 12:15:00,ADP Employment Change,HIGH,USD
+11/02/2022 18:00:00,Fed Interest Rate Decision,HIGH,USD
+11/02/2022 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+11/02/2022 18:30:00,FOMC Press Conference,HIGH,USD
+11/03/2022 14:00:00,ISM Services PMI,HIGH,USD
+11/04/2022 12:30:00,Nonfarm Payrolls,HIGH,USD
+11/10/2022 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+11/10/2022 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+11/11/2022 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+11/16/2022 13:30:00,Retail Sales (MoM),HIGH,USD
+11/16/2022 13:30:00,Retail Sales Control Group,HIGH,USD
+11/23/2022 13:30:00,Durable Goods Orders,HIGH,USD
+11/23/2022 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+11/23/2022 19:00:00,FOMC Minutes,HIGH,USD
+11/30/2022 13:15:00,ADP Employment Change,HIGH,USD
+11/30/2022 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+11/30/2022 18:30:00,Fed's Chair Powell speech,HIGH,USD
+12/01/2022 15:00:00,ISM Manufacturing PMI,HIGH,USD
+12/02/2022 13:30:00,Nonfarm Payrolls,HIGH,USD
+12/05/2022 15:00:00,ISM Services PMI,HIGH,USD
+12/09/2022 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+12/13/2022 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+12/13/2022 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+12/14/2022 19:00:00,Fed Interest Rate Decision,HIGH,USD
+12/14/2022 19:00:00,Fed's Monetary Policy Statement,HIGH,USD
+12/14/2022 19:00:00,FOMC Economic Projections,HIGH,USD
+12/14/2022 19:00:00,Interest Rate Projections - 1st year,HIGH,USD
+12/14/2022 19:00:00,Interest Rate Projections - 2nd year,HIGH,USD
+12/14/2022 19:00:00,Interest Rate Projections - 3rd year,HIGH,USD
+12/14/2022 19:00:00,Interest Rate Projections - Current,HIGH,USD
+12/14/2022 19:00:00,Interest Rate Projections - Longer,HIGH,USD
+12/14/2022 19:30:00,FOMC Press Conference,HIGH,USD
+12/15/2022 13:30:00,Retail Sales (MoM),HIGH,USD
+12/15/2022 13:30:00,Retail Sales Control Group,HIGH,USD
+12/22/2022 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+12/23/2022 13:30:00,Durable Goods Orders,HIGH,USD
+12/23/2022 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+01/04/2023 15:00:00,ISM Manufacturing PMI,HIGH,USD
+01/04/2023 19:00:00,FOMC Minutes,HIGH,USD
+01/05/2023 13:15:00,ADP Employment Change,HIGH,USD
+01/06/2023 13:30:00,Nonfarm Payrolls,HIGH,USD
+01/06/2023 15:00:00,ISM Services PMI,HIGH,USD
+01/10/2023 14:00:00,Fed's Chair Powell speech,HIGH,USD
+01/12/2023 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+01/12/2023 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+01/12/2023 13:30:00,President Biden speech,HIGH,USD
+01/13/2023 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+01/18/2023 13:30:00,Retail Sales (MoM),HIGH,USD
+01/18/2023 13:30:00,Retail Sales Control Group,HIGH,USD
+01/26/2023 13:30:00,Durable Goods Orders,HIGH,USD
+01/26/2023 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+01/26/2023 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+02/01/2023 13:15:00,ADP Employment Change,HIGH,USD
+02/01/2023 15:00:00,ISM Manufacturing PMI,HIGH,USD
+02/01/2023 19:00:00,Fed Interest Rate Decision,HIGH,USD
+02/01/2023 19:00:00,Fed's Monetary Policy Statement,HIGH,USD
+02/01/2023 19:30:00,FOMC Press Conference,HIGH,USD
+02/03/2023 13:30:00,Nonfarm Payrolls,HIGH,USD
+02/03/2023 15:00:00,ISM Services PMI,HIGH,USD
+02/07/2023 17:40:00,Fed's Chair Powell speech,HIGH,USD
+02/08/2023 02:00:00,President Biden speech,HIGH,USD
+02/10/2023 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+02/14/2023 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+02/14/2023 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+02/15/2023 13:30:00,Retail Sales (MoM),HIGH,USD
+02/15/2023 13:30:00,Retail Sales Control Group,HIGH,USD
+02/22/2023 19:00:00,FOMC Minutes,HIGH,USD
+02/23/2023 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+02/27/2023 13:30:00,Durable Goods Orders,HIGH,USD
+02/27/2023 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+03/01/2023 15:00:00,ISM Manufacturing PMI,HIGH,USD
+03/03/2023 15:00:00,ISM Services PMI,HIGH,USD
+03/07/2023 15:00:00,Fed's Chair Powell testifies,HIGH,USD
+03/08/2023 13:15:00,ADP Employment Change,HIGH,USD
+03/08/2023 15:00:00,Fed's Chair Powell testifies,HIGH,USD
+03/10/2023 13:30:00,Nonfarm Payrolls,HIGH,USD
+03/13/2023 13:00:00,President Biden speech,HIGH,USD
+03/14/2023 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+03/14/2023 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+03/15/2023 12:30:00,Retail Sales (MoM),HIGH,USD
+03/15/2023 12:30:00,Retail Sales Control Group,HIGH,USD
+03/17/2023 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+03/22/2023 18:00:00,Fed Interest Rate Decision,HIGH,USD
+03/22/2023 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+03/22/2023 18:00:00,FOMC Economic Projections,HIGH,USD
+03/22/2023 18:00:00,Interest Rate Projections - 1st year,HIGH,USD
+03/22/2023 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD
+03/22/2023 18:00:00,Interest Rate Projections - Current,HIGH,USD
+03/22/2023 18:00:00,Interest Rate Projections - Longer,HIGH,USD
+03/22/2023 18:30:00,FOMC Press Conference,HIGH,USD
+03/24/2023 12:30:00,Durable Goods Orders,HIGH,USD
+03/24/2023 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+03/30/2023 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+04/03/2023 14:00:00,ISM Manufacturing PMI,HIGH,USD
+04/05/2023 12:15:00,ADP Employment Change,HIGH,USD
+04/05/2023 14:00:00,ISM Services PMI,HIGH,USD
+04/07/2023 12:30:00,Nonfarm Payrolls,HIGH,USD
+04/12/2023 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+04/12/2023 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+04/12/2023 18:00:00,FOMC Minutes,HIGH,USD
+04/14/2023 12:30:00,Retail Sales (MoM),HIGH,USD
+04/14/2023 12:30:00,Retail Sales Control Group,HIGH,USD
+04/14/2023 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+04/26/2023 12:30:00,Durable Goods Orders,HIGH,USD
+04/26/2023 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+04/27/2023 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+05/01/2023 14:00:00,ISM Manufacturing PMI,HIGH,USD
+05/03/2023 12:15:00,ADP Employment Change,HIGH,USD
+05/03/2023 14:00:00,ISM Services PMI,HIGH,USD
+05/03/2023 18:00:00,Fed Interest Rate Decision,HIGH,USD
+05/03/2023 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+05/03/2023 18:30:00,FOMC Press Conference,HIGH,USD
+05/05/2023 12:30:00,Nonfarm Payrolls,HIGH,USD
+05/10/2023 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+05/10/2023 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+05/12/2023 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+05/16/2023 12:30:00,Retail Sales (MoM),HIGH,USD
+05/16/2023 12:30:00,Retail Sales Control Group,HIGH,USD
+05/24/2023 18:00:00,FOMC Minutes,HIGH,USD
+05/25/2023 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+05/26/2023 12:30:00,Durable Goods Orders,HIGH,USD
+05/26/2023 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+06/01/2023 14:00:00,ISM Manufacturing PMI,HIGH,USD
+06/02/2023 12:30:00,Nonfarm Payrolls,HIGH,USD
+06/05/2023 14:00:00,ISM Services PMI,HIGH,USD
+06/07/2023 12:15:00,ADP Employment Change,HIGH,USD
+06/09/2023 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+06/13/2023 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+06/13/2023 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+06/14/2023 18:00:00,Fed Interest Rate Decision,HIGH,USD
+06/14/2023 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+06/14/2023 18:00:00,FOMC Economic Projections,HIGH,USD
+06/14/2023 18:00:00,Interest Rate Projections - 1st year,HIGH,USD
+06/14/2023 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD
+06/14/2023 18:00:00,Interest Rate Projections - Current,HIGH,USD
+06/14/2023 18:00:00,Interest Rate Projections - Longer,HIGH,USD
+06/14/2023 18:30:00,FOMC Press Conference,HIGH,USD
+06/15/2023 12:30:00,Retail Sales (MoM),HIGH,USD
+06/15/2023 12:30:00,Retail Sales Control Group,HIGH,USD
+06/22/2023 20:30:00,Bank Stress Test Info,HIGH,USD
+06/27/2023 12:30:00,Durable Goods Orders,HIGH,USD
+06/27/2023 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+06/27/2023 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+07/03/2023 14:00:00,ISM Manufacturing PMI,HIGH,USD
+07/05/2023 12:15:00,ADP Employment Change,HIGH,USD
+07/05/2023 14:00:00,ISM Services PMI,HIGH,USD
+07/05/2023 18:00:00,FOMC Minutes,HIGH,USD
+07/07/2023 12:30:00,Nonfarm Payrolls,HIGH,USD
+07/12/2023 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+07/12/2023 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+07/14/2023 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+07/18/2023 12:30:00,Retail Sales (MoM),HIGH,USD
+07/18/2023 12:30:00,Retail Sales Control Group,HIGH,USD
+07/26/2023 18:00:00,Fed Interest Rate Decision,HIGH,USD
+07/26/2023 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+07/26/2023 18:30:00,FOMC Press Conference,HIGH,USD
+07/27/2023 12:30:00,Durable Goods Orders,HIGH,USD
+07/27/2023 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+07/27/2023 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+08/01/2023 14:00:00,ISM Manufacturing PMI,HIGH,USD
+08/02/2023 12:15:00,ADP Employment Change,HIGH,USD
+08/03/2023 14:00:00,ISM Services PMI,HIGH,USD
+08/04/2023 12:30:00,Nonfarm Payrolls,HIGH,USD
+08/10/2023 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+08/10/2023 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+08/11/2023 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+08/15/2023 12:30:00,Retail Sales (MoM),HIGH,USD
+08/15/2023 12:30:00,Retail Sales Control Group,HIGH,USD
+08/16/2023 18:00:00,FOMC Minutes,HIGH,USD
+08/24/2023 12:30:00,Durable Goods Orders,HIGH,USD
+08/24/2023 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+08/24/2023 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+09/01/2023 12:30:00,Nonfarm Payrolls,HIGH,USD
+09/01/2023 14:00:00,ISM Manufacturing PMI,HIGH,USD
+09/04/2023 14:00:00,ISM Services PMI,HIGH,USD
+09/06/2023 12:15:00,ADP Employment Change,HIGH,USD
+09/13/2023 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+09/13/2023 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+09/14/2023 12:30:00,Retail Sales (MoM),HIGH,USD
+09/14/2023 12:30:00,Retail Sales Control Group,HIGH,USD
+09/15/2023 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+09/20/2023 18:00:00,Fed Interest Rate Decision,HIGH,USD
+09/20/2023 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+09/20/2023 18:00:00,FOMC Economic Projections,HIGH,USD
+09/20/2023 18:00:00,Interest Rate Projections - 1st year,HIGH,USD
+09/20/2023 18:00:00,Interest Rate Projections - 2nd year,HIGH,USD
+09/20/2023 18:00:00,Interest Rate Projections - 3rd year,HIGH,USD
+09/20/2023 18:00:00,Interest Rate Projections - Current,HIGH,USD
+09/20/2023 18:00:00,Interest Rate Projections - Longer,HIGH,USD
+09/20/2023 18:30:00,FOMC Press Conference,HIGH,USD
+09/27/2023 12:30:00,Durable Goods Orders,HIGH,USD
+09/27/2023 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+09/28/2023 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+10/02/2023 14:00:00,ISM Manufacturing PMI,HIGH,USD
+10/04/2023 12:15:00,ADP Employment Change,HIGH,USD
+10/04/2023 14:00:00,ISM Services PMI,HIGH,USD
+10/06/2023 12:30:00,Nonfarm Payrolls,HIGH,USD
+10/11/2023 18:00:00,FOMC Minutes,HIGH,USD
+10/12/2023 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+10/12/2023 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+10/13/2023 14:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+10/17/2023 12:30:00,Retail Sales (MoM),HIGH,USD
+10/17/2023 12:30:00,Retail Sales Control Group,HIGH,USD
+10/26/2023 12:30:00,Durable Goods Orders,HIGH,USD
+10/26/2023 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+10/26/2023 12:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+11/01/2023 12:15:00,ADP Employment Change,HIGH,USD
+11/01/2023 14:00:00,ISM Manufacturing PMI,HIGH,USD
+11/01/2023 18:00:00,Fed Interest Rate Decision,HIGH,USD
+11/01/2023 18:00:00,Fed's Monetary Policy Statement,HIGH,USD
+11/01/2023 18:30:00,FOMC Press Conference,HIGH,USD
+11/03/2023 12:30:00,Nonfarm Payrolls,HIGH,USD
+11/03/2023 15:00:00,ISM Services PMI,HIGH,USD
+11/10/2023 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+11/14/2023 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+11/14/2023 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+11/16/2023 13:30:00,Retail Sales (MoM),HIGH,USD
+11/16/2023 13:30:00,Retail Sales Control Group,HIGH,USD
+11/22/2023 19:00:00,FOMC Minutes,HIGH,USD
+11/23/2023 13:30:00,Durable Goods Orders,HIGH,USD
+11/23/2023 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD
+11/29/2023 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+12/01/2023 15:00:00,ISM Manufacturing PMI,HIGH,USD
+12/06/2023 13:15:00,ADP Employment Change,HIGH,USD
+12/06/2023 15:00:00,ISM Services PMI,HIGH,USD
+12/08/2023 13:30:00,Nonfarm Payrolls,HIGH,USD
+12/08/2023 15:00:00,Michigan Consumer Sentiment Index,HIGH,USD
+12/12/2023 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+12/13/2023 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+12/13/2023 19:00:00,Fed Interest Rate Decision,HIGH,USD
+12/13/2023 19:00:00,Fed's Monetary Policy Statement,HIGH,USD
+12/13/2023 19:00:00,FOMC Economic Projections,HIGH,USD
+12/13/2023 19:00:00,Interest Rate Projections - 1st year,HIGH,USD
+12/13/2023 19:00:00,Interest Rate Projections - 2nd year,HIGH,USD
+12/13/2023 19:00:00,Interest Rate Projections - 3rd year,HIGH,USD
+12/13/2023 19:00:00,Interest Rate Projections - Current,HIGH,USD
+12/13/2023 19:00:00,Interest Rate Projections - Longer,HIGH,USD
+12/13/2023 19:30:00,FOMC Press Conference,HIGH,USD
+12/14/2023 13:30:00,Retail Sales (MoM),HIGH,USD
+12/14/2023 13:30:00,Retail Sales Control Group,HIGH,USD
+12/21/2023 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+12/26/2023 13:30:00,Durable Goods Orders,HIGH,USD
+12/26/2023 13:30:00,Nondefense Capital Goods Orders ex Aircraft,HIGH,USD

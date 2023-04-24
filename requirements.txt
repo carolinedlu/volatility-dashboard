@@ -1,0 +1,11 @@
+binance_futures_connector==3.3.1
+config==0.5.1
+numpy==1.23.1
+numpy==1.17.4
+pandas==1.5.2
+pandas_ta==0.3.14b0
+plotly==5.13.1
+python_binance==1.0.17
+streamlit==1.21.0
+websocket_client==1.4.2
+yfinance==0.1.74
