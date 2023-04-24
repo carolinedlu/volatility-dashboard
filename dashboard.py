@@ -9,8 +9,7 @@ st.sidebar.title("selection")
 option = st.sidebar.selectbox("options",('long signal', 'short signal', 'data frame', 'Important dates', 'implinks'))
 st.subheader(option)
 
-df = yf.download('BTC-USD', period='1y', interval='1h')
-import pandas as pd; import numpy as np
+df = yf.download('BTC-USD', period='6mo', interval='1h')
 df = df.reset_index()
 # Step: Change data type of Date to Datetime
 df = df.rename(columns={'index': 'Date'})
@@ -18,7 +17,6 @@ df['Volatility Open'] = df['Open'].rolling(window=10).std()
 df['Volatility High'] = df['High'].rolling(window=10).std()
 df['Volatility Low'] = df['Low'].rolling(window=10).std()
 df['Volatility Close'] = df['Close'].rolling(window=10).std()
-df['Vol10'] = df['Volatility Close'] * 10
 
 newdf=df[['Datetime','Volatility Open','Volatility High','Volatility Low','Volatility Close']]
 newdf=newdf.set_index('Datetime')
